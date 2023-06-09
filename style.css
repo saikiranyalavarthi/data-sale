@@ -1,0 +1,32 @@
+.scorecard {
+    background-color: #a8b2dc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .graph {
+    background-color: #a82828;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    background-color: #b1c5d1;
+    padding: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
